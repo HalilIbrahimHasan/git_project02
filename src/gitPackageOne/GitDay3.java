@@ -14,6 +14,7 @@ public class GitDay3 {
 		System.out.println("My fourth push from local feature branch");
 		System.out.println("Here is the change");
 		System.out.println("here is the conflict");
+		System.out.println("Here is my stash change");
 	}
 	
 	
